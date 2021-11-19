@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "first second post",
+      "id": 1
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "second post",
+      "id": 2
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "third post",
+      "id": 3
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "forth post",
+      "id": 4
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "fifth post",
+      "id": 5
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "sixs post",
+      "id": 6
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "sevens post",
+      "id": 7
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "eights post",
+      "id": 8
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "nines post",
+      "id": 9
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "tens post",
+      "id": 10
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "elevens post",
+      "id": 11
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "twelves post",
+      "id": 12
+    },
+    {
+      "foto": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/iphone11provihreaCC88-600x600.jpg",
+      "descr": "thirteens post",
+      "id": 13
+    }
+  ]
+}
